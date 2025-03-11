@@ -1,8 +1,9 @@
 <h1 align="center">Hi 👋, I'm Computer!</h1>
-<h3 align="center">A passionate frontend developer from the United States</h3>
+<h3 align="center">A passionate developer from the United States</h3>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<h3 align="center">About Me:</h3>
+<p align="center">
+I am a very big computer nerd that loves to learn the In's and Out's of computing. I love to learn how computers work, where they come form, and how they operate. I really want to get into cyber security, and hopefully grow up to be a succeful person throughout the community.  
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
